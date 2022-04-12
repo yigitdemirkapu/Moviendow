@@ -4,6 +4,10 @@ Project Overview:
 
 Search, list and view details of movies and series that are located under <b>http://omdbapi.com</b>
 
+Requirements:
+
+You need to provide an API key, which can be retrieved from omdbapi.com, in Constants.swift file to have an access to the API
+
 Tech stack:
 
 <b>Swift Package Manager</b> for the dependency management
